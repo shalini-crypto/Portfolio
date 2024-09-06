@@ -1,4 +1,4 @@
-import { createElement } from 'lwc';
+import {createElement} from 'lwc';
 import PortfolioCertifcations from 'c/portfolioCertifcations';
 
 describe('c-portfolio-certifcations', () => {
